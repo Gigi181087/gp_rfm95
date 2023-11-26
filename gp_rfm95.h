@@ -1,5 +1,5 @@
 #ifndef __GP_RFM95_H_
-#define __GP_RFM95_H_#
+#define __GP_RFM95_H_
 
 #include <stdint.h>
 
