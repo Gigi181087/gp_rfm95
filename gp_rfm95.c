@@ -3,7 +3,7 @@
 struct gp_rfm95 {
   
 
-}
+};
 
 void gp_rfm95_init(gp_rfm95_t** module_param) {
 
